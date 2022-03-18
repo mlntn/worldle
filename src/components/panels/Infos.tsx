@@ -136,10 +136,19 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
           >
             @teuteuf
           </a>{" "}
+          - countries refined by{" "}
+          <a
+            className="underline"
+            href="https://twitter.com/mlntn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @mlntn
+          </a>{" "}
           - (
           <a
             className="underline"
-            href="https://github.com/teuteuf/worldle/"
+            href="https://github.com/mlntn/worldle/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -156,7 +165,7 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
             rel="noopener noreferrer"
           >
             <Twemoji
-              text="Buy me a coffee! ☕"
+              text="Buy teuteuf a coffee! ☕"
               options={{ className: "inline-block" }}
             />
           </a>

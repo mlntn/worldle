@@ -53,7 +53,7 @@ const resources = {
       support: {
         UA: "Support the Ukrainian Red Cross",
       },
-      buyMeACoffee: "Buy me a ☕!",
+      buyMeACoffee: "Buy teuteuf a ☕!",
     },
   },
   fr: {
